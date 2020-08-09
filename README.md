@@ -1,5 +1,5 @@
 I’m a final year Computer Science Student.
-I’m currently learning JavaScript.
+Currently learning JavaScript.
 I’m looking to collaborate on projects on  Core Java and JavaScript.
 
 <!--
